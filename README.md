@@ -161,24 +161,3 @@ todo_application/
 ├── README.md          # Project information and usage instructions
 └── test_todo_app.py   # Optional automated test script
 ```
-
----
-
-## Submission Reminder
-
-Before you submit:
-
-1. Confirm **all checklist items** above are ticked.
-2. Re-read your code and add or improve any comments that are unclear.
-3. Double-check that you have **not** imported any external libraries in `todo_app.py`.
-4. Create a GitHub repository, then add, commit, and push these files.
-5. Submit your GitHub repository URL in Disco.
-6. Record and upload your video directly to Disco. Do **not** use Google Drive or an external video link.
-
-## Suggested Video Outline
-
-Keep the video under 5 minutes and make sure your face is visible on camera.
-
-1. **What the project does** — Explain that this is a command-line To-Do List app where users can add, view, delete, and quit.
-2. **How it works** — Mention that tasks are stored in a Python list and that the program uses functions, loops, conditionals, input validation, and `try`/`except`/`else`/`finally` blocks.
-3. **Quick demo** — Run `python todo_app.py`, add one or two tasks, view them, delete one task, show an invalid input example, and quit.
